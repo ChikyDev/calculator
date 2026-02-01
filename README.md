@@ -54,4 +54,4 @@ Este proyecto está orientado a **nivel junior** y tiene como objetivo practicar
 En la consola, ejecuta:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+git clone https://github.com/ChikyDev/calculator.git
