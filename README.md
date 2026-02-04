@@ -13,6 +13,7 @@ Este proyecto está orientado a **nivel junior** y tiene como objetivo practicar
   - ➖ Resta
   - ✖️ Multiplicación
   - ➗ División
+  - √ Raiz cuadrada
 - Control de errores (división entre cero)
 - Salida del programa sin necesidad de reiniciarlo
 - Resultados y mensajes mostrados con **colores en consola** para mejorar la legibilidad
