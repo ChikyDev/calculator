@@ -19,11 +19,11 @@ while True:
 
     eleccion = input('Escoje una de todas las opciones (1-6): ') #Aqui el usuario debera de elegir que tipo de operacion escoje
 
-    if eleccion == '6': #Lo que esta indicando este if es que si el usuario pone 5, salga de la calculadora
+    if eleccion == '6': #Lo que esta indicando este if es que si el usuario pone 6, salga de la calculadora
         print('Saliendo de la calculadora...👋​')
         break
 
-    if eleccion not in ['1', '2', '3', '4', '5']:
+    if eleccion not in ['1', '2', '3', '4', '5', '6']:
         print('La opcion no es valida')
         continue
     
